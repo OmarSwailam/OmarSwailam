@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **omarswailam@outlook.com**
 
-- 📄 Resume [Resume](https://drive.google.com/file/d/1q3lzLDxDGL9XqUOmsbUD8MnYF1oMz0k2/view?usp=sharing)
+- 📄 [Resume](https://drive.google.com/file/d/1q3lzLDxDGL9XqUOmsbUD8MnYF1oMz0k2/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
