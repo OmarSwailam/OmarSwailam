@@ -33,29 +33,29 @@
 <h3 align="left">Latest projects:</h3>
 
 * [MyRecipes REST Api](https://github.com/OmarSwailam/MyRecipes)
- * Implemented a **comprehensive authentication system using JWT** that requires users to **activate their accounts
+  * Implemented a **comprehensive authentication system using JWT** that requires users to **activate their accounts
 through a verification link**.
- * Implemented key features such as **password and email change** functionality.
- * Utilized **Celery to enable asynchronous email sending**.
- * **Designed a solid tagging system** that enhances filtering options for users, enabling them to **filter recipes based on
+  * Implemented key features such as **password and email change** functionality.
+  * Utilized **Celery to enable asynchronous email sending**.
+  * **Designed a solid tagging system** that enhances filtering options for users, enabling them to **filter recipes based on
 specific ingredients or tags**.
- * Implemented a **streamlined process that enables users to add multiple images to a recipe in a single post
+  * Implemented a **streamlined process that enables users to add multiple images to a recipe in a single post
 request**, improving the user experience and reducing the time required to add images to a recipe.
- * Added a **search functionality** for finding recipes by title.
- * Implemented **custom permissions** to ensure secure access and prevent unauthorized actions
+  * Added a **search functionality** for finding recipes by title.
+  * Implemented **custom permissions** to ensure secure access and prevent unauthorized actions
 
 * [E-commerce REST Api](https://github.com/OmarSwailam/storefront)
- * Implemented user **authentication** with Djoser library and **json web token (JWT)**.
- * Implemented **payment gateway using stripe**
- * Designed **shopping cart functionality and order placement**.
- * **Product search and filtering** this allows users to quickly and easily find the products they're looking for.
- * Used **Celery for asynchronous task processing** such as sending confirmation emails and updating order status.
- * Utilized **Redis for caching** frequently accessed data to improve performance and reduce database load.
- * **Optimized database queries** for improved performance and scalability.
- * Created **custom permissions, custom filters, custom validators and custom model manager**.
- * Designed a **custom admin panel** for managing products, orders, and users.
- * Used **Locust to load test the API** and optimize the performance.
- * Used **Silk for a live profiling and inspection tool** as it intercepts and stores HTTP requests and database queries.
+  * Implemented user **authentication** with Djoser library and **json web token (JWT)**.
+  * Implemented **payment gateway using stripe**
+  * Designed **shopping cart functionality and order placement**.
+  * **Product search and filtering** this allows users to quickly and easily find the products they're looking for.
+  * Used **Celery for asynchronous task processing** such as sending confirmation emails and updating order status.
+  * Utilized **Redis for caching** frequently accessed data to improve performance and reduce database load.
+  * **Optimized database queries** for improved performance and scalability.
+  * Created **custom permissions, custom filters, custom validators and custom model manager**.
+  * Designed a **custom admin panel** for managing products, orders, and users.
+  * Used **Locust to load test the API** and optimize the performance.
+  * Used **Silk for a live profiling and inspection tool** as it intercepts and stores HTTP requests and database queries.
 
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=omarswailam&show_icons=true&locale=en&layout=compact" alt="omarswailam" /></p>
