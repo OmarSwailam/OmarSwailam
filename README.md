@@ -33,14 +33,29 @@
 <h3 align="left">Latest projects:</h3>
 
 * [MyRecipes REST Api](https://github.com/OmarSwailam/MyRecipes)
+ * Implemented a **comprehensive authentication system using JWT** that requires users to **activate their accounts
+through a verification link**.
+ * Implemented key features such as **password and email change** functionality.
+ * Utilized **Celery to enable asynchronous email sending**.
+ * **Designed a solid tagging system** that enhances filtering options for users, enabling them to **filter recipes based on
+specific ingredients or tags**.
+ * Implemented a **streamlined process that enables users to add multiple images to a recipe in a single post
+request**, improving the user experience and reducing the time required to add images to a recipe.
+ * Added a **search functionality** for finding recipes by title.
+ * Implemented **custom permissions** to ensure secure access and prevent unauthorized actions
 
-Django Rest Framework API that allows users to share and discover recipes. Users can sign up for an account, create their own recipes, and share them with the community. The application also allows users to search for recipes by title, description, ingredients, and tags.
-the project includes a user-friendly interface that provides comprehensive documentation for all API endpoints. This makes it easy for developers to understand and interact with the various endpoints and their parameters.
 * [E-commerce REST Api](https://github.com/OmarSwailam/storefront)
-
-Production ready Django REST Framework API that leverages Celery as a distributed task queue and Redis as both a message broker and a caching solution. The result is a powerful e-commerce backend that can be seamlessly integrated into any application or website.
-
-
+ * Implemented user **authentication** with Djoser library and **json web token (JWT)**.
+ * Implemented **payment gateway using stripe**
+ * Designed **shopping cart functionality and order placement**.
+ * **Product search and filtering** this allows users to quickly and easily find the products they're looking for.
+ * Used **Celery for asynchronous task processing** such as sending confirmation emails and updating order status.
+ * Utilized **Redis for caching** frequently accessed data to improve performance and reduce database load.
+ * **Optimized database queries** for improved performance and scalability.
+ * Created **custom permissions, custom filters, custom validators and custom model manager**.
+ * Designed a **custom admin panel** for managing products, orders, and users.
+ * Used **Locust to load test the API** and optimize the performance.
+ * Used **Silk for a live profiling and inspection tool** as it intercepts and stores HTTP requests and database queries.
 
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=omarswailam&show_icons=true&locale=en&layout=compact" alt="omarswailam" /></p>
