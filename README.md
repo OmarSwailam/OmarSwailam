@@ -40,40 +40,7 @@
 
 - <a href="https://linkedin.com/in/omar-swailam" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omar-swailam" height="15" width="15" /> Linkedin </a> 
 
-
-<h3 align="left">Latest projects:</h3>
-
-* <a href="https://github.com/OmarSwailam/social-media-neo4j-flask" target="_blank">Social Media using Neo4j and Flask</a>
-  * User registration and login with JWT (JSON Web Tokens) for authentication.
-  * User follow and unfollow functionality.
-  * Post creation, editing, and deletion.
-  * Retrieving a list of all users and posts.
-  * Retrieving specific user and post details.
- 
-* <a href="https://github.com/OmarSwailam/MyRecipes" target="_blank" rel="noreferrer">MyRecipes REST Api</a>
-  * Implemented a **comprehensive authentication system using JWT** that requires users to **activate their accounts
-through a verification link**.
-  * Implemented key features such as **password and email change** functionality.
-  * Utilized **Celery to enable asynchronous email sending**.
-  * **Designed a solid tagging system** that enhances filtering options for users, enabling them to **filter recipes based on
-specific ingredients or tags**.
-  * Implemented a **streamlined process that enables users to add multiple images to a recipe in a single post
-request**, improving the user experience and reducing the time required to add images to a recipe.
-  * Added a **search functionality** for finding recipes by title.
-  * Implemented **custom permissions** to ensure secure access and prevent unauthorized actions
-
-* <a href="https://github.com/OmarSwailam/storefront" target="_blank" rel="noreferrer">E-commerce REST Api</a>
-  * Implemented user **authentication** with Djoser library and **json web token (JWT)**.
-  * Implemented **payment gateway using stripe**
-  * Designed **shopping cart functionality and order placement**.
-  * **Product search and filtering** this allows users to quickly and easily find the products they're looking for.
-  * Used **Celery for asynchronous task processing** such as sending confirmation emails and updating order status.
-  * Utilized **Redis for caching** frequently accessed data to improve performance and reduce database load.
-  * **Optimized database queries** for improved performance and scalability.
-  * Created **custom permissions, custom filters, custom validators and custom model manager**.
-  * Designed a **custom admin panel** for managing products, orders, and users.
-  * Used **Locust to load test the API** and optimize the performance.
-  * Used **Silk for a live profiling and inspection tool** as it intercepts and stores HTTP requests and database queries.
+<p>Software Engineer with nearly 2 years of experience in designing and implementing robust backend systems. Skilled in building scalable RESTful APIs, optimizing system performance, and creating modular architectures. Proficient in integrating asynchronous and background task workflows, with a strong interest in server management, DevOps practices, and cloud technologies. Experienced in Agile environments, collaborating across teams to deliver high-quality, iterative solutions, passionate about driving impactful results through innovative backend solutions.</p>
 
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=omarswailam&show_icons=true&locale=en&layout=compact" alt="omarswailam" /></p>
